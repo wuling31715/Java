@@ -5,6 +5,7 @@
 | 1. | OCAJP | Oracle Certified Associate Java Programmer I| 1Z0-808 |
 | 2. | OCPJP | Oracle Certified Professional Java Programmer II | 1Z0-809 |
 ---
+## OCAJP
 1. Java Basics
     * Define the scope of variables 
     * Define the structure of a Java class
