@@ -1,6 +1,6 @@
 # Java
 ---
-| 縮寫 | 全名 | 代號 |
+| Exam | Exam Title | Exam Number |
 | -------- | -------- | -------- | 
 | OCAJP | Oracle Certified Associate Java Programmer I| 1Z0-808 |
 | OCPJP | Oracle Certified Professional Java Programmer II | 1Z0-809 |
