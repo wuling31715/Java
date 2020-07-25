@@ -1,4 +1,4 @@
-public class Cast{
+public class Cast1{
     public static void main(String[] args) {
         int y1 = 10;
         long y2 = y1;

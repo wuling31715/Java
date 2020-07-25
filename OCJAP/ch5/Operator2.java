@@ -1,4 +1,4 @@
-public class Operator{
+public class Operator2{
     public static void main(String[] args){
         int count = 20;
         int a, b, c, d;
