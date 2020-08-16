@@ -1,8 +1,8 @@
-public class Test{
-    static int z;
+public class Test3{
+    int z;
     public static void main(String[] args) {
-        Test t = new Test();
-        z = 6;
+        Test3 t = new Test3();
+        int z = 6;
         System.out.println(z);
         System.out.println(t.z);
         t.method1();
