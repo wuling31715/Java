@@ -2,8 +2,8 @@
 ---
 | Exam | Exam Title | Exam Number |
 | -------- | -------- | -------- | 
-| OCAJP | Oracle Certified Associate Java Programmer I| 1Z0-808 |
-| OCPJP | Oracle Certified Professional Java Programmer II | 1Z0-809 |
+| [OCAJP](#ocajp) | Oracle Certified Associate Java Programmer I| 1Z0-808 |
+| [OCPJP](#ocpjp) | Oracle Certified Professional Java Programmer II | 1Z0-809 |
 ---
 ## OCAJP
 1. Java Basics
