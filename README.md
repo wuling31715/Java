@@ -1,6 +1,6 @@
 # Java
 ---
-| Exam | Exam Title | Exam Number |
+| Exam | Title | ID |
 | -------- | -------- | -------- | 
 | [OCAJP](#ocajp) | Oracle Certified Associate Java Programmer I| 1Z0-808 |
 | [OCPJP](#ocpjp) | Oracle Certified Professional Java Programmer II | 1Z0-809 |
